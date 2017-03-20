@@ -1,0 +1,14 @@
+{
+	"name": "js-app",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "ADT",
+			"homepage": "http://appsdevteam.com"
+		}
+	],
+	"main": "app.js",
+	"ignore": [
+		"*.json"
+	]
+}
